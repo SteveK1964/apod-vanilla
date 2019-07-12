@@ -1,2 +1,2 @@
 # apod-vanilla
-Vanilla work stuff
+JQuery Apod Refactored to Vanilla JS
